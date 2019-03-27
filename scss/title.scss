@@ -1,0 +1,26 @@
+.site{
+    display: block;
+    margin-bottom:10px;
+    position:relative;
+    line-height: normal;
+    margin-top:30px;
+    .site-header{
+        font-family: $app-title-font-family;
+        color: $app-title-color;
+        font-size:$app-title-font-size;
+        font-weight:bold;
+        text-align:center;
+        padding-left:60px;
+     }
+    //  .site-description{
+    //      display:block;
+    //      font-family: $description-font-family;
+    //      font-size: $description-font-size;
+    //      font-weight:100;
+    //      line-height: 45px;
+    //      margin-bottom: 16px;
+    //      margin-top:-8px;
+    //      position: relative;
+    //      text-align: center;
+    //  }
+}

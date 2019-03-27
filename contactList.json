@@ -1,0 +1,10 @@
+{
+    "contactList":[
+        {"firstName":"Xinyun","lastName":"Chen","birthday":"12/20/1995","phoneNumber":"6173317256","address":"47 Washington Street, Melrose","photo":"https://s.gravatar.com/avatar/6970fa4fa4b02e54c384de19dc680f54?s=80"},
+        {"firstName":"Ziran","lastName":"Su","birthday":"06/06/1995","phoneNumber":"6173326798","address":"37 washington street, Boston","photo":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"},
+        {"firstName":"Amy","lastName":"Zhang","birthday":"02/04/1996","phoneNumber":"8765241323","address":"57 washington street,Boston","photo":"https://s.gravatar.com/avatar/466db4223c8e139cf2a90c1c6d1f1be7?s=80"},
+        {"firstName":"Susan","lastName":"Li","birthday":"06/22/1999","phoneNumber":"62376492643","address":"67 washington street，Melrose","photo":"https://www.gravatar.com/avatar/4ab0e03151efa8c05216680c1d8ee306"},
+        {"firstName":"Ming","lastName":"Mi","birthday":"09/28/2001","phoneNumber":"724763974","address":"77 washington street,Malden","photo":"https://s.gravatar.com/avatar/304d7fbfb43e94c6ff2c1c9139a7d223?s=80"}
+
+    ]
+}

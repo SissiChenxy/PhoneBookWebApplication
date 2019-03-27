@@ -1,0 +1,40 @@
+.newContact{
+    box-shadow: inset 0px 0px 10px rgb(240, 196, 196);
+    border-radius: 10px;
+    width:600px;
+    margin-left:25%;
+    margin-bottom: 14px;
+    padding-top:10px;
+    padding-left:14px;
+    padding-bottom: 10px;
+    display: block;
+    position: relative;
+    align-content: center;
+    
+    header{
+        font-family: $create-header-font-family;
+        font-size: $create-header-font-size;
+        text-align: center;
+    }
+
+    @mixin button{
+        padding-top:10px;
+        padding-bottom: 10px;
+        position: relative;
+        background-color: white;
+        border-radius: 5px;
+        border-color: rgb(207, 152, 101);
+        box-shadow:0px 0px 20px peachpuff inset;
+        border-style: none; 
+        font-family: $button-font-family;
+    }
+    #submit{
+        margin-left:200px;
+        @include button();
+        
+    }
+    #cancel{
+        margin-left:50px;
+        @include button();
+    }
+}

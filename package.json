@@ -1,0 +1,29 @@
+{
+  "name": "phonebook-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack scss/main.scss",
+    "start": "webpack-dev-server --open"
+  },
+  "author": "xinyun chen",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.6.5",
+    "serve-static": "^1.13.1"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "1.0.1",
+    "css-loader": "2.1.0",
+    "extract-text-webpack-plugin": "3.0.2",
+    "html-webpack-plugin": "^3.2.0",
+    "mini-css-extract-plugin": "0.5.0",
+    "node-sass": "4.11.0",
+    "sass-loader": "7.1.0",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
+  },
+  "description": ""
+}
